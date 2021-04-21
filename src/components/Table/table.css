@@ -1,0 +1,37 @@
+.tableData{ 
+    font-size: em;
+    color:black;
+}
+.pcolor{
+    background-color:"pink" ;
+
+}
+ 
+
+div.Progress::before {
+    content: "\2022";
+    color:orange;
+    font-weight: bold;
+    display: inline-block; 
+    width: .5em;
+    font-size: 2rem;
+    margin-left: -1em;
+  }  
+
+
+div.Not_Prepared::before {
+    content: "\2022";
+    font-size: 2rem;
+    color:red;
+    font-weight: bold;
+    display: inline-block; 
+    width: .5em;
+    margin-left: -1em;
+  }  
+
+
+.litable{
+    display: flex;
+    font-size: "2px";
+
+}

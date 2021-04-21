@@ -1,0 +1,14 @@
+.li{
+    padding-right: 1rem;
+    padding-left: 1.5rem;
+    padding-bottom: .5rem;
+    padding-top: 1rem;
+    color:#C7D7F6;
+    align-self:center;
+    
+}
+li:hover {
+    background-color:#2969DD;
+    color:white;
+    border-left:3px solid white;
+  }
