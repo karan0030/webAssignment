@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/karan0030/webAssignment/static/css/main.170f3373.chunk.css",
+    "main.js": "/karan0030/webAssignment/static/js/main.62cc65b6.chunk.js",
+    "main.js.map": "/karan0030/webAssignment/static/js/main.62cc65b6.chunk.js.map",
+    "runtime-main.js": "/karan0030/webAssignment/static/js/runtime-main.a405b173.js",
+    "runtime-main.js.map": "/karan0030/webAssignment/static/js/runtime-main.a405b173.js.map",
+    "static/js/2.a861d177.chunk.js": "/karan0030/webAssignment/static/js/2.a861d177.chunk.js",
+    "static/js/2.a861d177.chunk.js.map": "/karan0030/webAssignment/static/js/2.a861d177.chunk.js.map",
+    "index.html": "/karan0030/webAssignment/index.html",
+    "static/css/main.170f3373.chunk.css.map": "/karan0030/webAssignment/static/css/main.170f3373.chunk.css.map",
+    "static/js/2.a861d177.chunk.js.LICENSE.txt": "/karan0030/webAssignment/static/js/2.a861d177.chunk.js.LICENSE.txt",
+    "static/media/blue_back.e77ecff7.png": "/karan0030/webAssignment/static/media/blue_back.e77ecff7.png",
+    "static/media/john.7213b0e0.jpg": "/karan0030/webAssignment/static/media/john.7213b0e0.jpg",
+    "static/media/orange_back.64224d6a.png": "/karan0030/webAssignment/static/media/orange_back.64224d6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a405b173.js",
+    "static/js/2.a861d177.chunk.js",
+    "static/css/main.170f3373.chunk.css",
+    "static/js/main.62cc65b6.chunk.js"
+  ]
+}
